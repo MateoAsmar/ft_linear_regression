@@ -18,7 +18,7 @@ The training script reads mileage and price data, min-max normalizes both variab
 
 ## Provide the training data
 
-The code expects the dataset at mandatory/data.csv, but this file is not currently present in the repository. Add it there before training. The first row is treated as a header; each following row must contain numeric mileage and price values in its first two columns.
+The code expects the dataset at mandatory/data.csv. The first row is treated as a header; each following row must contain numeric mileage and price values in its first two columns.
 
 Example format:
 
